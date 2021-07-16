@@ -1,5 +1,5 @@
 # entropy_dnn
-Code for project on relative entropy in deep neural networks. Files included:
+Code for project on relative entropy in deep neural networks; corresponding paper available at https://arxiv.org/abs/2107.06898. Files include:
 
 * `Gaussian_Feedforward.ipynb` -- jupyter notebook that creates and trains feedforward random networks used in the analysis; data written in HDF5 format.
 
