@@ -1,0 +1,25 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: entropy_dnn
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Ro
+    family-names: Jefferson
+    orcid: 'https://orcid.org/0000-0002-2603-0350'
+identifiers:
+  - type: url
+    value: 'https://github.com/ro-jefferson/entropy_dnn'
+    description: Repository
+  - type: url
+    value: 'https://arxiv.org/abs/2107.06898'
+    description: arXiv
+  - type: doi
+    value: 10.48550/arXiv.2107.06898
+    description: arXiv DOI
+repository-code: 'https://github.com/ro-jefferson/entropy_dnn'
+abstract: 'Code for arXiv:2107.06898'
